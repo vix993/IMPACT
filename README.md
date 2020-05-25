@@ -6,4 +6,4 @@ A driving game with custom input mechanics, blocking and trigger usage.
 	Developed in Unity with code.
 	Assets made with Unity Resource.
 
-Rendered for enjoyment on Android and Windows.
+Rendered for enjoyment on Android and Windows. Download and run the executables.
