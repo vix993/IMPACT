@@ -1,6 +1,8 @@
 # IMPACT
 Prove you are the drift king, steer your way to victory!
 
+Play: https://impactdk.netlify.app/
+
 A driving game with custom input mechanics, blocking and trigger usage.
 
 	Developed in Unity with code.
